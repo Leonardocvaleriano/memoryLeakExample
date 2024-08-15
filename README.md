@@ -7,7 +7,7 @@ Technologies
 -
     LeakCanary
 
-Tips/How it works?
+Tips/How does it work?
 -
 How memory leak is being caused?
 * An object has been declared outside a static field(Activity), then a property of this object has been set
